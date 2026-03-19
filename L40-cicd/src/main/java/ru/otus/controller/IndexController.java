@@ -21,6 +21,6 @@ public class IndexController {
     }
 
     public Integer retryCount(){
-        return 5;
+        return 2;
     }
 }
